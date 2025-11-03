@@ -10,7 +10,7 @@ La carpeta principal contiene los códigos para ejecutar los diferentes modelos 
 
 - "3 Splines for the spatial intensity.R" contiene el código para reemplazar la estimación de la intensidad espacial mediante covariables por una estimación basada en funciones spline definidas sobre la ventana espacial.
 
-- "4 Residual analysis.R" contiene el código para realizar un análisis residual espacial de cualquiera de los modelos ajustados (ten en cuenta que el resultado del modelo debe estar en la carpeta "Outputs", por lo que debe ejecutar el código "1 Modelo Poisson homogéneo.R" o cualquier otro de los códigos para realizar un análisis residual).
+- "4 Residual analysis.R" contiene el código para realizar un análisis residual espacial de cualquiera de los modelos ajustados (ten en cuenta que el resultado del modelo debe estar en la carpeta "Outputs", por lo que debes ejecutar el código "1 Modelo Poisson homogéneo.R" o cualquier otro de los códigos para realizar un análisis residual).
 
 Además:
 
