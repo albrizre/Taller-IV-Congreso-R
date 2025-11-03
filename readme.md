@@ -14,7 +14,10 @@ La carpeta principal contiene los códigos para ejecutar los diferentes modelos 
 
 Además:
 
-La carpeta **Models** contiene los códigos nimble de cada uno de los modelos bayesianos de procesos puntuales explicados.
-La carpeta **Data** contiene los datos necesarios para utilizar los códigos. Ten en cuenta que, para evitar violar la privacidad de los datos, las ubicaciones temporales se han obtenido a partir de una distribución uniforme en [0,365] (los resultados que se muestran en las diapositivas corresponden al conjunto de datos real).
-La carpeta **Outputs** debe utilizarse para guardar los resultados de los modelos ajustados según los códigos. La carpeta aparece vacía porque los resultados son bastante grandes. Ten cuidado con el número de iteraciones/cadenas que eliges para ajustar el modelo.
-La carpeta **Slides** contiene las diapositivas empleadas durante el taller.
+- La carpeta **Models** contiene los códigos nimble de cada uno de los modelos bayesianos de procesos puntuales explicados.
+
+- La carpeta **Data** contiene los datos necesarios para utilizar los códigos. Ten en cuenta que, para evitar violar la privacidad de los datos, las ubicaciones temporales se han obtenido a partir de una distribución uniforme en [0,365] (los resultados que se muestran en las diapositivas corresponden al conjunto de datos real).
+
+- La carpeta **Outputs** debe utilizarse para guardar los resultados de los modelos ajustados según los códigos. La carpeta aparece vacía porque los resultados son bastante grandes. Ten cuidado con el número de iteraciones/cadenas que eliges para ajustar el modelo.
+
+- La carpeta **Slides** contiene las diapositivas empleadas durante el taller.
